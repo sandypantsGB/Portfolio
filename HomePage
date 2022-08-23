@@ -32,21 +32,12 @@
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
 	}
-	#tony-reid-eMaS4mzaksU-unsplash {
-		mix-blend-mode: normal;
+	#valentin-beauvais-yVUQlyRlJSw- {
 		position: absolute;
-		width: 1920px;
-		height: 2734px;
+		width: 1916px;
+		height: 2873px;
 		left: 0px;
-		top: -695px;
-		overflow: visible;
-	}
-	#tony-reid-eMaS4mzaksU-unsplash_l {
-		position: absolute;
-		width: 1920px;
-		height: 2734px;
-		left: 0px;
-		top: 0px;
+		top: -896px;
 		overflow: visible;
 	}
 	#Home_Button {
@@ -90,7 +81,7 @@
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#HOME_q {
+	#HOME_l {
 		opacity: 0;
 		left: 1px;
 		top: 13.822px;
@@ -238,7 +229,7 @@
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#SHOP_ {
+	#SHOP_y {
 		opacity: 0;
 		left: 1.896px;
 		top: 10.499px;
@@ -3204,10 +3195,8 @@ window.application = new Application();
 </head>
 <body>
 <div id="Home_Page">
-	<div id="tony-reid-eMaS4mzaksU-unsplash" class="tony_reid_eMaS4mzaksU_unsplash">
-		<img id="tony-reid-eMaS4mzaksU-unsplash_l" src="tony-reid-eMaS4mzaksU-unsplash_l.png" srcset="tony-reid-eMaS4mzaksU-unsplash_l.png 1x, tony-reid-eMaS4mzaksU-unsplash_l@2x.png 2x">
-			
-	</div>
+	<img id="valentin-beauvais-yVUQlyRlJSw-" src="valentin-beauvais-yVUQlyRlJSw-.png" srcset="valentin-beauvais-yVUQlyRlJSw-.png 1x, valentin-beauvais-yVUQlyRlJSw-@2x.png 2x">
+		
 	<div id="Home_Button" class="Home_Button">
 		<div id="home">
 			<svg class="Path_9" viewBox="9 14 11.269 18.831">
@@ -3219,7 +3208,7 @@ window.application = new Application();
 				</path>
 			</svg>
 		</div>
-		<div id="HOME_q">
+		<div id="HOME_l">
 			<span>HOME</span>
 		</div>
 	</div>
@@ -3258,7 +3247,7 @@ window.application = new Application();
 				</path>
 			</svg>
 		</div>
-		<div id="SHOP_">
+		<div id="SHOP_y">
 			<span>SHOP</span>
 		</div>
 	</div>
